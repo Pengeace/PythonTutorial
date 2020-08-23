@@ -1,2 +1,2 @@
 # PythonTutorial
-For basic python languages and data analysis usages.
+An tutorial for python and its data analysis usages.
