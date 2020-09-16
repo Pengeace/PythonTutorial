@@ -1,5 +1,5 @@
 # Python Tutorial
-This tutorial covers basic topics in Python, trying to explan each one in detail.
+This tutorial covers basic topics in Python, trying to explain each one in detail.
 
 
 ## Contents
@@ -72,7 +72,7 @@ This tutorial covers basic topics in Python, trying to explan each one in detail
 
 ### [Python Day 9](https://github.com/Pengeace/PythonTutorial/blob/master/PythonDay8.ipynb)
 - Function
-    + Syntax & Defination
+    + Syntax & Definition
     + Built-in Functions
     + More on Input Arguments
         * Number of Arguments
@@ -82,3 +82,28 @@ This tutorial covers basic topics in Python, trying to explan each one in detail
     - Anonymous/Lambda Function
         + Lambda Function
         + `map`, `filter`, `reduce`
+
+
+#### Examples
+- [example 1](https://github.com/Pengeace/PythonTutorial/blob/master/practice/example1.ipynb)
+    + Count specific letters in a string
+- [example 2](https://github.com/Pengeace/PythonTutorial/blob/master/practice/example2.ipynb)
+    + Narcissistic Number checking
+- [example 3](https://github.com/Pengeace/PythonTutorial/blob/master/practice/example3.ipynb)
+    + Perform a function based on the selected menu option
+        + Generate Fibonacci Numbers
+        + Generate Random Numbers
+        + Search Prime numbers
+- [example 4](https://github.com/Pengeace/PythonTutorial/blob/master/practice/example4.ipynb)
+    + Stack
+        * Definition & Feature
+        * Applications
+        * Parenthesis Matching by stack
+- [example 5](https://github.com/Pengeace/PythonTutorial/blob/master/practice/example5.ipynb)
+    + Search Primes up to _N_
+        * Naive search by definition
+            - Three implementations
+            - To speed up a program
+        * Sieve of Eratosthenes
+            - Multiples of a prime are not primes
+    + Prime Factorization
